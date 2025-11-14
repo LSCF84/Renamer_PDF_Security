@@ -30,3 +30,29 @@ IMPORTANTE:
 - Los archivos originales NO se borran.
 - Si hay errores, aparecerán mensajes en la consola.
 Esta en modificacion, ya que la primera version estaba diseñada para pacientes.
+
+## 🚀 Instalación Rápida
+
+### Prerrequisitos
+- Python 3.8 o superior
+- Windows 10/11
+- Permisos de administrador (recomendado)
+- Terminal o Powershell
+---
+
+## 👨‍💻 Autor
+
+**LSCF**
+
+## ⚙️ Instalación y Dependencias
+
+Para ejecutar este proyecto, necesitas Python 3.x
+
+## 🤝 ¿Quieres contribuir?
+
+¡Claro! Abre un Issue o un Pull Request. Usa la plantilla al crear un Issue.
+
+---
+
+⭐️ Si te sirvió, ¡dale una estrella al repositorio!
+
