@@ -16,4 +16,17 @@ Renombra y Protege PDFs
 
 Pequeña utilidad para automatizar el proceso de **renombrar archivos PDF** utilizando un número de identificador y **protegerlos con contraseña** utilizando su DNI (Documento Nacional de Identidad) o contraseñas.
 
+
+INSTRUCCIONES - Renombrar y proteger PDFs con datos de pacientes
+
+1. Coloca el archivo 'clinicos.xlsx' en la carpeta C:\Informes
+2. Asegúrate de que los archivos PDF estén en esa misma carpeta. Deben llamarse como el número de paciente (ej: 222.pdf)
+3. Ejecuta el archivo 'renombra_protege_pdf.exe'
+4. Los nuevos archivos renombrados y protegidos se guardarán en: C:\Informes\Protegidos
+
+Contraseña de cada PDF = el DNI del paciente correspondiente.
+
+IMPORTANTE:
+- Los archivos originales NO se borran.
+- Si hay errores, aparecerán mensajes en la consola.
 Esta en modificacion, ya que la primera version estaba diseñada para pacientes.
