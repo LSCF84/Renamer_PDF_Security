@@ -1,10 +1,8 @@
 <div align="center">
    
-# Version REPDFSEC (Renamer_PDF_Security)
-
+# ⚙️ PDF Renamer Security    
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Windows](https://img.shields.io/badge/Platform-Windows%2010%2B-success)](https://www.microsoft.com/windows)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5%2B-orange)](https://openai.com/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 
