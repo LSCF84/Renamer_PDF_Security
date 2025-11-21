@@ -54,7 +54,7 @@ Pequeña utilidad para automatizar el proceso de **renombrar archivos PDF** util
 
 1.  **Clona el repositorio**
     ```bash
-    git clone https://github.com/LSCF84/PDF-Renamer-Security-PDF-RS
+    git clone https://github.com/LSCF84/PDF-Renamer-Security-PDF-RS.git
     cd PDF-Renamer-Security
     ```
 2.  **Instala dependencias**
