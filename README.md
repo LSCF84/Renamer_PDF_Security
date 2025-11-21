@@ -1,6 +1,6 @@
 <div align="center">
    
-# ⚙️ PDF Renamer Security    
+# ⚙️ PDF Renamer Security (PDF-RS)   
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Windows](https://img.shields.io/badge/Platform-Windows%2010%2B-success)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
@@ -54,7 +54,7 @@ Pequeña utilidad para automatizar el proceso de **renombrar archivos PDF** util
 
 1.  **Clona el repositorio**
     ```bash
-    git clone https://github.com/LSCF84/Renamer_PDF_Security
+    git clone https://github.com/LSCF84/PDF-Renamer-Security-PDF-RS
     cd PDF-Renamer-Security
     ```
 2.  **Instala dependencias**
